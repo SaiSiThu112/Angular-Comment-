@@ -1,0 +1,108 @@
+{
+  "comments": [
+    {
+      "id": "1",
+      "body": "First comment",
+      "username": "Jack",
+      "userId": "1",
+      "parentId": null,
+      "createdAt": "2021-08-16T23:00:33.010+02:00"
+    },
+    {
+      "id": "2",
+      "body": "Second comment",
+      "username": "John",
+      "userId": "2",
+      "parentId": null,
+      "createdAt": "2021-08-16T23:00:33.010+02:00"
+    },
+    {
+      "id": "3",
+      "body": "First comment first child",
+      "username": "John",
+      "userId": "2",
+      "parentId": "1",
+      "createdAt": "2021-08-16T23:00:33.010+02:00"
+    },
+    {
+      "id": "4",
+      "body": "Second comment second child",
+      "username": "John",
+      "userId": "2",
+      "parentId": "2",
+      "createdAt": "2021-08-16T23:00:33.010+02:00"
+    },
+    {
+      "body": "gfggf",
+      "parentId": null,
+      "createdAt": "2022-02-10T09:15:57.873Z",
+      "userId": "1",
+      "username": "John",
+      "id": "3YtrbAq"
+    },
+    {
+      "body": "hghghgghabcabc",
+      "parentId": "3YtrbAq",
+      "createdAt": "2022-02-10T09:16:01.597Z",
+      "userId": "1",
+      "username": "John",
+      "id": "e2sALRM"
+    },
+    {
+      "body": "!!",
+      "parentId": "2",
+      "createdAt": "2022-02-10T09:16:35.943Z",
+      "userId": "1",
+      "username": "John",
+      "id": "fv1nmAF"
+    },
+    {
+      "body": "hi",
+      "parentId": null,
+      "createdAt": "2022-11-09T09:12:48.798Z",
+      "userId": "123",
+      "username": "John",
+      "id": "yl2Pbmt"
+    },
+    {
+      "body": "hello\n",
+      "parentId": null,
+      "createdAt": "2022-11-09T09:13:05.069Z",
+      "userId": "123",
+      "username": "John",
+      "id": "gBu4p3u"
+    },
+    {
+      "body": "bbbbbb",
+      "parentId": "gBu4p3u",
+      "createdAt": "2022-11-09T09:13:22.846Z",
+      "userId": "123",
+      "username": "John",
+      "id": "Q5UAhdA"
+    },
+    {
+      "body": "tester\n",
+      "parentId": null,
+      "createdAt": "2022-11-09T09:15:40.358Z",
+      "userId": "123",
+      "username": "John",
+      "id": "FpC1Ped"
+    },
+    {
+      "body": "testtt",
+      "parentId": "gBu4p3u",
+      "createdAt": "2022-11-09T09:15:50.646Z",
+      "userId": "123",
+      "username": "John",
+      "id": "cbAadq6"
+    },
+    {
+      "body": "ttggt",
+      "parentId": "FpC1Ped",
+      "createdAt": "2022-11-09T09:16:00.446Z",
+      "userId": "123",
+      "username": "John",
+      "id": "hGpbOkY"
+    }
+  ]
+}
